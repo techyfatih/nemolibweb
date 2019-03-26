@@ -1,5 +1,15 @@
 .vscode/
 
+# labelg dump TODO implement labelg in nemolib so we won't need these
+/labelg
+/labelg.exe
+/.rawgraph6_*.g6*
+/.canonical_*.g6*
+
+# graph input files
+/*.txt
+
+
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and WebStorm
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
